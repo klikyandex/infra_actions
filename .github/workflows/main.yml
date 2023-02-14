@@ -53,4 +53,4 @@ jobs:
           uses: docker/build-push-action@v2
           with:
             push: true
-            tags: klikovskiy/infra_actions:latest
+            tags: klikovskiy/infra_actions
